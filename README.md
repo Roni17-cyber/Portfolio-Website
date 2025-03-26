@@ -20,9 +20,6 @@ style.css → Custom styles
 script.js → Animation and interaction logic
 
 
-## 📸 Preview
-
-![Screenshot](https://user-images.githubusercontent.com/your-username/your-preview-image.png)
 
 ## 🌐 Live Demo
 
